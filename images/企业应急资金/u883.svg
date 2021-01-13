@@ -1,19 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="193px" height="189px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter x="497px" y="-6px" width="193px" height="189px" filterUnits="userSpaceOnUse" id="filter56">
-      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="25" in="shadowOffsetInner" result="shadowGaussian" />
-      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0.0745098039215686  0 0 0 0 0.152941176470588  0 0 0 0 0.309803921568627  0 0 0 1 0  " in="shadowComposite" />
-    </filter>
-    <g id="widget57">
-      <path d="M 547.582987811799 88.5  L 573.982987811799 44.5  L 613.017012188201 44.5  L 639.417012188201 88.5  L 613.017012188201 132.5  L 573.982987811799 132.5  L 547.582987811799 88.5  Z " fill-rule="nonzero" fill="#13274f" stroke="none" />
-      <path d="M 547 88.5  L 573.7 44  L 613.3 44  L 640 88.5  L 613.3 133  L 573.7 133  L 547 88.5  Z M 574.265975623598 45  L 548.165975623598 88.5  L 574.265975623598 132  L 612.734024376402 132  L 638.834024376402 88.5  L 612.734024376402 45  L 574.265975623598 45  Z " fill-rule="nonzero" fill="#13274f" stroke="none" />
-    </g>
-  </defs>
-  <g transform="matrix(1 0 0 1 -497 6 )">
-    <use xlink:href="#widget57" filter="url(#filter56)" />
-    <use xlink:href="#widget57" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="236px" height="96px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -617 -40 )">
+    <path d="M 814.6 40  C 814.6 40  818.6 40.8135593220339  818.6 40.8135593220339  C 818.6 40.8135593220339  853 88  853 88  C 853 88  818.6 135.186440677966  818.6 135.186440677966  C 818.6 135.186440677966  814.6 136  814.6 136  C 814.6 136  617 136  617 136  C 617 136  617 40  617 40  C 617 40  814.6 40  814.6 40  Z " fill-rule="nonzero" fill="#13274f" stroke="none" />
   </g>
 </svg>
